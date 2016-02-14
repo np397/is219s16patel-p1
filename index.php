@@ -60,6 +60,12 @@
 						<img src="img6.jpg">
 					</div>
 				</div>
+				<a class="left carousel-control" href="#slider" role="button" data-slide="prev">
+					<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+				</a>
+				<a class="right carousel-control" href="#slider" role="button" data-slide="next">
+					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				</a>
 			</div>
 		</div>
 	</body>

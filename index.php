@@ -16,6 +16,17 @@
 			.item img{
 				width:100%;
 			}
+			.container h2{
+				text-align:center;
+				color:#9B9B8C;
+			}
+			.container p{
+				color:#575748;
+				font-size:15px;
+			}
+			#profile img{
+				width:100%;
+			}
 		</style>
 	</head>
 	<body>

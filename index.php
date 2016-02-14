@@ -73,5 +73,30 @@
 				</a>
 			</div>
 		</div>
+		
+		<div class="container" id="profile">
+			<h2>Personal Profile</h2>
+			<hr>
+			<div class="row">
+				<div class="col-sm-3 col-sm-offset-1">
+					<img src="img7.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-7">
+					<br><br>
+					<p>Hello, and welcome! My name is Nidhi Patel and I am a junior at <a href="http://www.njit.edu/">NJIT</a>.
+					   I am currently pursuing a Bachelor's of Science Degree in Information Technology with a concentration 
+					   in web development. As a self motivated person, I enjoy living a goal oriented life. Challenges and opportunities 
+					   always catch my attention because I love exploring new fields. I consider myself as a self
+					   starter with ability to work independently and enthusiasm to work with a team in a 
+					   fast-paced environment. 
+					</p>
+					<br>
+					<p>I enjoy going on adventurous trips with my friends and family. Going on hikes is 
+					   my favourite stress relieving activity.Other than travelling and hiking, I like bowling, playing 
+					   Badminton, cooking and coding.</p>
+				</div>
+			</div>
+			<br>
+		</div>
 	</body>
 </html>

@@ -22,7 +22,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<div class= "collapse navbar-collapse navHeaderCollapse">
+				<div class= "collapse navbar-collapse navHeaderCollapse nav-justified">
 					<ul class="nav nav-pills nav-justified">
 						<li><a href="#">Home</a></li>
 						<li><a href="#profile">Profile</a></li>

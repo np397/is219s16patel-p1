@@ -12,6 +12,11 @@
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 		<script src="js/bootstrap.js"></script>
+		<style>
+			.item img{
+				width:100%;
+			}
+		</style>
 	</head>
 	<body>
 		<div class="navbar navbar-default navbar-fixed-top">

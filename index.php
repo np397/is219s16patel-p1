@@ -109,5 +109,37 @@
 			</div>
 			<br>
 		</div>
+			<div class="container" id="education">
+			<h2>Education</h2>
+			<hr>
+				<div class="col-sm-5">
+					<h4><a href="http://www.njit.edu/">New Jersey Institute of Technology, Newark NJ</a></h4>
+					<p><b>Bachelor of Science - Information Technology</b>
+					<br>(Specialization: Web Applications)
+					<br>Expected Graduation Date: May 17, 2017
+					</p>
+				
+				</div>
+				<div class="col-sm-4">
+					<h4><a href="http://www.middlesexcc.edu/">Middlesex County College, Middlesex NJ</a></h4>
+					<p><b>Associate in Applied Science - Computer and Information Systems(Highest Honors)</b>
+					   <br>Graduated in May 2015
+					   <br>GPA: 3.7/4.0
+					</p>
+					<ul>
+						<li>Windows/PC Support Certificate (Highest Honors)</li>
+						<li>Java & Web Programming Certificate (Highest Honors)</li>
+						<li>Network Administration Certificate (Highest Honors)</li>
+						<li>Java Programming Certificate (Highest Honors)</li>
+						<li>Highest Academic Achievement Award for Network Administration</li>
+						<li>Highest Academic Achievement  Award for Java Programming</li>
+					</ul>
+				</div>
+				<div class="col-sm-3">
+					<h4><a href="http://phs.piscatawayschools.org/">Piscataway High School</a></h4>
+					<p>Graduated in 2013</p>
+				</div>
+			<br>
+		</div>
 	</body>
 </html>

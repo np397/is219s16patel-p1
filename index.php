@@ -194,5 +194,17 @@
 			</div>
 			<br>
 		</div>
+		
+		<div class="container" id="contact">
+			<h2>Contact</h2>
+			<hr>
+			<div class="col-sm-4 col-sm-offset-5">
+			<p class="glyphicon glyphicon glyphicon-envelope" aria-hidden="true">
+			Email: np397@njit.edu
+			</p>
+			<p class="glyphicon glyphicon glyphicon-phone" aria-hidden="true">
+			Phone: 111-222-3333
+			</p>		
+		</div>
 	</body>
 </html>

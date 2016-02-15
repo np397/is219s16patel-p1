@@ -27,6 +27,9 @@
 			#profile img{
 				width:100%;
 			}
+			#education{
+				background-color:#F7F7F7;
+			}
 		</style>
 	</head>
 	<body>

@@ -144,5 +144,55 @@
 				</div>
 			<br>
 		</div>
+		
+		<div class="container" id="skills">
+			<h2>Skills</h2>
+			<hr>
+			<div class="container">
+				<div class="col-sm-3">
+					<img src="css.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="html.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="bootstrap.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="java.jpg" class="img-rounded">
+				</div>
+			</div>
+			<br>
+			<div class="container">
+				<div class="col-sm-3">
+					<img src="javascript.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="ajax.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="php.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="sql.jpg" class="img-rounded">
+				</div>
+			</div>
+			<br>
+			<div class="container">
+				<div class="col-sm-3">
+					<img src="visualbasic.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="linux.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="unix.jpg" class="img-rounded">
+				</div>
+				<div class="col-sm-3">
+					<img src="windows.jpg" class="img-rounded">
+				</div>
+			</div>
+			<br>
+		</div>
 	</body>
 </html>

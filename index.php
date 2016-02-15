@@ -33,6 +33,9 @@
 			#contact{
 				background-color:#F7F7F7;
 			}
+			#skills img{
+				width:100%;
+			}
 		</style>
 	</head>
 	<body>

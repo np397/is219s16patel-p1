@@ -152,7 +152,7 @@
 			<h2>Skills</h2>
 			<hr>
 			<div class="container">
-				<div class="col-sm-3">
+				<div class="col-sm-3 col-xs-12">
 					<img src="css.jpg" class="img-rounded">
 				</div>
 				<div class="col-sm-3">

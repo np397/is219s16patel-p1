@@ -74,18 +74,38 @@
 				<div class="carousel-inner" role="listbox" >
 					<div class="item active">
 						<img src="img2.jpg">
+						<div class="carousel-caption">
+							<p>Nidhi Patel</p>
+							<h2>UI/FrontEnd Developer</h2>
+						</div>
 					</div>
 					<div class="item">
 						<img src="img3.jpg">
+						<div class="carousel-caption">
+							<p>Nidhi Patel</p>
+							<h2>UI/FrontEnd Developer</h2>
+						</div>
 					</div>
 					<div class="item">
 						<img src="img4.jpg">
+						<div class="carousel-caption">
+							<p>Nidhi Patel</p>
+							<h2>UI/FrontEnd Developer</h2>
+						</div>
 					</div>
 					<div class="item">
 						<img src="img5.jpg">
+						<div class="carousel-caption">
+							<p>Nidhi Patel</p>
+							<h2>UI/FrontEnd Developer</h2>
+						</div>
 					</div>
 					<div class="item">
 						<img src="img6.jpg">
+						<div class="carousel-caption">
+							<p>Nidhi Patel</p>
+							<h2>UI/FrontEnd Developer</h2>
+						</div>
 					</div>
 				</div>
 				<a class="left carousel-control" href="#slider" role="button" data-slide="prev">

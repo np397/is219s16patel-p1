@@ -36,6 +36,15 @@
 			#skills img{
 				width:100%;
 			}
+			.carousel-caption p{
+				color:#FFFFF2;
+				font-size:50px;
+				font-family: "Georgia", serif;
+			}
+			.carousel-caption h2{
+				color:#FFFFF2;
+				font-family: "Georgia", serif;
+			}
 		</style>
 	</head>
 	<body>

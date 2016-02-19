@@ -36,15 +36,7 @@
 			#skills img{
 				width:100%;
 			}
-			.carousel-caption p{
-				color:#FFFFF2;
-				font-size:50px;
-				font-family: "Georgia", serif;
-			}
-			.carousel-caption h2{
-				color:#FFFFF2;
-				font-family: "Georgia", serif;
-			}
+			
 		</style>
 	</head>
 	<body>
@@ -72,7 +64,6 @@
 		<br>
 		<br>
 		<div class="container">
-			<div class="col-sm-12">
 			<div id="slider" class="carousel slide" data-ride="carousel">
 				<ol class="carousel-indicators">
 					<li data-target="#slider" data-slide-to="0" class="active"></li>
@@ -85,36 +76,36 @@
 					<div class="item active">
 						<img src="img2.jpg">
 						<div class="carousel-caption">
-							<p>Nidhi Patel</p>
-							<h2>UI/FrontEnd Developer</h2>
+							<h1>Nidhi Patel</h1>
+							<h5>UI/FrontEnd Developer</h5>
 						</div>
 					</div>
 					<div class="item">
 						<img src="img3.jpg">
 						<div class="carousel-caption">
-							<p>Nidhi Patel</p>
-							<h2>UI/FrontEnd Developer</h2>
+							<h1>Nidhi Patel</h1>
+							<h5>UI/FrontEnd Developer</h5>
 						</div>
 					</div>
 					<div class="item">
 						<img src="img4.jpg">
 						<div class="carousel-caption">
-							<p>Nidhi Patel</p>
-							<h2>UI/FrontEnd Developer</h2>
+							<h1>Nidhi Patel</h1>
+							<h5>UI/FrontEnd Developer</h5>
 						</div>
 					</div>
 					<div class="item">
 						<img src="img5.jpg">
 						<div class="carousel-caption">
-							<p>Nidhi Patel</p>
-							<h2>UI/FrontEnd Developer</h2>
+							<h1>Nidhi Patel</h1>
+							<h5>UI/FrontEnd Developer</h5>
 						</div>
 					</div>
 					<div class="item">
 						<img src="img6.jpg">
 						<div class="carousel-caption">
-							<p>Nidhi Patel</p>
-							<h2>UI/FrontEnd Developer</h2>
+							<h1>Nidhi Patel</h1>
+							<h5>UI/FrontEnd Developer</h5>
 						</div>
 					</div>
 				</div>
@@ -124,7 +115,6 @@
 				<a class="right carousel-control" href="#slider" role="button" data-slide="next">
 					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 				</a>
-			</div>
 			</div>
 		</div>
 		

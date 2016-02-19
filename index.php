@@ -72,6 +72,7 @@
 		<br>
 		<br>
 		<div class="container">
+			<div class="col-sm-12">
 			<div id="slider" class="carousel slide" data-ride="carousel">
 				<ol class="carousel-indicators">
 					<li data-target="#slider" data-slide-to="0" class="active"></li>
@@ -123,6 +124,7 @@
 				<a class="right carousel-control" href="#slider" role="button" data-slide="next">
 					<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 				</a>
+			</div>
 			</div>
 		</div>
 		

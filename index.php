@@ -25,8 +25,7 @@
 				font-size:15px;
 			}
 			#profile img{
-				width:230px;
-				height:275px;
+				width:100%;
 			}
 			#education{
 				background-color:#F7F7F7;
@@ -123,7 +122,7 @@
 			<h2>Personal Profile</h2>
 			<hr>
 			<div class="row">
-				<div class="col-sm-3 col-sm-offset-1">
+				<div class="col-sm-4 col-sm-offset-2">
 					<img src="img7.jpg" class="img-rounded">
 				</div>
 				<div class="col-sm-7">

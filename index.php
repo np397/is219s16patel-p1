@@ -25,7 +25,8 @@
 				font-size:15px;
 			}
 			#profile img{
-				width:100%;
+				width:230px;
+				height:275px;
 			}
 			#education{
 				background-color:#F7F7F7;
